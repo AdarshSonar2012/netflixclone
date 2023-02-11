@@ -68,6 +68,10 @@ body {
 .inputwrap button a {
   text-decoration: none;
   color: white;
+  padding-left: 139px;
+  padding-top: 15px;
+  padding-right: 130px;
+  padding-bottom: 15px;
 }
 .inputwrap button {
   cursor: pointer;

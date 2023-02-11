@@ -51,7 +51,23 @@ button {
 .row__posterLarge:hover {
   transform: scale(1.09);
 }
-
+.paddles {
+}
+.paddle {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 3em;
+}
+.left-paddle {
+  left: 0;
+}
+.right-paddle {
+  right: 0;
+}
+.hidden {
+  display: none;
+}
 /* banner */
 .banner {
   left: 0;
